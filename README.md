@@ -5,7 +5,7 @@
 popular adalah **Software Architectural Pattern**. Satu topik ini memiliki banyak tipe, 
 dua tipe paling sering dijumpai adalah **N-Tier Architecture** dan **Hexagonal Architecture**.
 <br/><br/>
-Traditional architecture atau N-Tier adalah acitecture yang biasanya terdiri dari
+N-Tier Architecture adalah acitecture yang biasanya terdiri dari
 Layer-layer seperti Presentation/Controller, Business Logic/Core Logic/Service,
 Data Layer/Repository dan layer lainnya (tidak ada atruan baku terkait jumlah layer).
 Jenis ini memiliki tujuan utama untuk memisahkan aplikasi menjadi memiliki tier.
